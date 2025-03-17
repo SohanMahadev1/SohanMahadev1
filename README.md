@@ -16,12 +16,12 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm currently working on **awesome projects**
-- 🌱 I'm currently learning **AI and Cloud Technologies**
-- 👯 I'm looking to collaborate on **open-source and AI projects**
+- 🔭 I'm currently pursuing masters in **Information Technology and Management** at Illinois INstitute of Technology, Graduating by May 2025.
+- 🌱 I'm currently ready to work on **any Tech related fields**
+- 👯 I'm looking to collaborate on **open-source, software and  AI projects**
 - 💬 Ask me about **anything tech-related**
-- 📫 How to reach me: **sohan.mahadev@example.com**
-- ⚡ Fun fact: **I code better with coffee ☕**
+- 📫 How to reach me: **sohanmahadev10@gmail.com**
+- ⚡ Fun fact: **I code better under pressure with coffee on a side ☕**
 
 ---
 
@@ -36,6 +36,8 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+
   </div>
 </div>
 
